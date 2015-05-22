@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map LCDS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LCDS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+WriteStringAtPos	KEYWORD2
+DisplaySet	KEYWORD2
+CursorModeSet	KEYWORD2
+Begin	KEYWORD2
+SendBytes	KEYWORD2
+DisplayClear	KEYWORD2
+WriteStringAtPos	KEYWORD2
+DisplayScroll	KEYWORD2
+SaveCursor	KEYWORD2
+RestoreCursor	KEYWORD2
+DisplayMode	KEYWORD2
+EraseInLine	KEYWORD2
+EraseChars	KEYWORD2
+Reset	KEYWORD2
+SaveTWIAddr	KEYWORD2
+SaveBR	KEYWORD2
+CharsToLcd	KEYWORD2
+SaveRamtoEeprom	KEYWORD2
+LdEepromToRam	KEYWORD2
+SaveCommToEeprom	KEYWORD2
+EepromWrEn	KEYWORD2
+SaveCursorToEeprom	KEYWORD2
+SaveDisplayToEeprom	KEYWORD2
+DefineUserChar	KEYWORD2	
+DispUserChar	KEYWORD2
+SetPos	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PAR_ACCESS_DSPI0	LITERAL1
+PAR_ACCESS_DSPI1	LITERAL1
